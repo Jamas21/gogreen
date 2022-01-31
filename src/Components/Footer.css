@@ -1,0 +1,10 @@
+.App-footer {
+    background-color: #95CD41;
+    min-height: 70px;
+    display: flex;
+    color: white;
+}
+
+.App-footer h1 {
+    margin-left: 10px;
+}
